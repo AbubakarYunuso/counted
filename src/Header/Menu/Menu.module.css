@@ -1,0 +1,19 @@
+.links{
+    margin-left: 15px;
+    text-decoration: none;
+    margin-right: 3px;
+    font-weight: 500;
+    font-size: 19px;
+    line-height: 28px;
+    color: #003399;
+
+    
+}
+.menuContainer{
+    width: 80%;
+    box-sizing: border-box;
+}
+.linksInMenu{
+    margin-top: 29px;
+    text-align: right;
+}

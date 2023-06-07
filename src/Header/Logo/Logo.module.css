@@ -1,0 +1,17 @@
+.FirstCharLogo{
+    color:#003399;
+    font-size: 63px;
+}
+.logoContainer{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 47px;
+    color: #F27C0F;
+    width: 23%;
+    box-sizing: border-box;
+    padding: 19px 0 19px 0;
+
+}

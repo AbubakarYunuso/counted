@@ -1,0 +1,10 @@
+.copyrightFooterContatiner{
+    width: 100%;
+    text-align: right;
+    margin-top: 14px;
+}
+.copyrightText{
+    font-size: 13px;
+    line-height: 19px;
+    color: rgba(0, 0, 0, 0.5);
+}

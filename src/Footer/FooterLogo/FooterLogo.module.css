@@ -1,0 +1,13 @@
+.footerLogoContainer{
+display: flex;
+align-items: center;
+font-size: 27px;
+color: rgba(0, 0, 0, 0.3);;
+}
+.firstCharFooter{
+    font-size: 70px;
+    color: rgba(0, 0, 0, 0.6);;
+}
+.ountedTextLogoFooter{
+    margin-top: 12px;
+}

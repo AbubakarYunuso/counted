@@ -1,0 +1,11 @@
+.linksContainerFooter{
+    margin-top: 15px;
+}
+.linkInFooter{
+    margin-left: 30px;
+    color: rgba(0, 0, 0, 0.5);
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+}
